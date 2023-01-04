@@ -1,8 +1,8 @@
 {
     "clientVersionCode": 100,
     "gameFilesVersionCode": 100,
-    "URL_GAME_FILES" : "https://wh6839.web3.maze-host.ru/game.zip",
-    "URL_GAME_FILES_UPD" : "https://wh6839.web3.maze-host.ru/upd.zip",
+    "URL_GAME_FILES" : "http://wh6839.web3.maze-host.ru/game.zip",
+    "URL_GAME_FILES_UPD" : "http://wh6839.web3.maze-host.ru/upd.zip",
     "URL_VK": "https://vk.com/nezoxrp_crmp",
     "URL_DISCORD": "https://discord.gg/3zhm9dvdAD",
     "URL_YOUTUBE": "https://youtube.com/@nezoxrp",
